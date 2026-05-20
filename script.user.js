@@ -4,7 +4,7 @@
 // @version      1.4
 // @description  Auto reloads YouTube when it gets stuck after clicking a video (anti-adblock delay, black screen, spinner, etc.)
 // @author       Newfies
-// @match        https://www.youtube.com/*
+// @match        https://www.youtube.com/watch*
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
