@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube AdBlocker Auto Reload
 // @namespace    https://github.com/Newfies
-// @version      1.4
+// @version      1.5
 // @description  Auto reloads YouTube when it gets stuck after clicking a video (anti-adblock delay, black screen, spinner, etc.)
 // @author       Newfies
 // @match        https://www.youtube.com/watch*
